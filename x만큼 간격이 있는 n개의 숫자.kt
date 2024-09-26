@@ -9,6 +9,4 @@ class Solution1 {
 }
 
 fun main(){
-    Solution1().solution(-4,2)
-        .forEach { println(it) }
 }
